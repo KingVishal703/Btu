@@ -14,4 +14,4 @@ DB_NAME = os.environ.get("DB_NAME", "filestore")
 COLLECTION_NAME = os.environ.get("COLLECTION_NAME", "users")
 
 # Admin Telegram ID (only admin can broadcast)
-ADMIN_ID = int(os.environ.get("ADMIN_ID", "6557934214"))
+ADMIN_ID = int(os.environ.get("ADMIN_ID", "5654093580"))
