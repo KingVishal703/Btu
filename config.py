@@ -1,12 +1,12 @@
 import os
 
 # Your bot token
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7648577586:AAG10G2khDJyFiQtwhVT7fyhjjo_AX8jFeI")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6417803923:AAFi4-J-ov9R-R4xKDkQJXFk9IjKy_5uLJI")
 
 # MongoDB (you can use SRV URL here)
 MONGO_URL = os.environ.get(
     "MONGO_URL",
-    "mongodb+srv://sankarbio8098:sankar@cluster0.5gfezqj.mongodb.net/?retryWrites=true&w=majority"
+    "mongodb+srv://simoya4228:JQU2RGSyGXUqMcS0@cluster0.0qtubmi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 )
 
 # Your old database and collection
