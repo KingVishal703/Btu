@@ -1,7 +1,7 @@
 import os
 
 # Your bot token
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8158393539:AAFc2MnZ61dJUyQTAPToqPbzZ1dC6ERwGp0")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7614452604:AAE0P2nRaJzsmwFFi5mvxVZ-InowwEqfsww")
 
 # MongoDB (you can use SRV URL here)
 MONGO_URL = os.environ.get(
